@@ -31,10 +31,18 @@ const Web Developer = {
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <br />
+<br /> 
+<div>
+  <a href = "mailto:luifop.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/luis-felipe-oliveira-preto-b5303a137/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>  
 <br />
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=luisfop&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisfop&layout=compact&langs_count=7&theme=tokyonight"/>
 
+<div align="center">
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=luisfop&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+<img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisfop&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
      
 
   
