@@ -1,5 +1,5 @@
 ### Hey there, you can call me Luis! 
-I'm a Software Developer from Brazil, living in Sao Paulo.
+I'm a Web Developer from Brazil, living in Sao Paulo.
 Developer on LuizaLabs. </br>
 <img align="center" alt="ClassWallet" width="122px" src="https://cdn-images-1.medium.com/max/1200/1*IVax5__p6o5n1YPgugiqGQ.png" />
 ```javascript
