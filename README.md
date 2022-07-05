@@ -6,7 +6,7 @@ Developer on LuizaLabs. </br>
 const Web Developer = {
   name: 'Luis Felipe Preto',
   age: 29,
-  currentStack: [ 'VueJs, Reactjs, Swift, Node, Typescript'],
+  currentStack: [ 'VueJs, Reactjs, Swift, Node, Typescript , NuxtJs, NextJs'],
   otherSkills: ['HTML5, CSS, SASS,  Angularjs, TypeScript, Storybook , Docker, Documentation, Confluence and Jira, MySQL, Jest'], 
   status: 📓 'Working as frontend Developer',
   hobbies: 'Hockey, games, movies, nature'
