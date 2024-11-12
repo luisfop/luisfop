@@ -1,7 +1,7 @@
 ### Hey there, you can call me Luis! 
 I'm a Web Developer from Brazil, living in Sao Paulo.
-Developer on LuizaLabs. </br>
-<img align="center" alt="ClassWallet" width="122px" src="https://cdn-images-1.medium.com/max/1200/1*IVax5__p6o5n1YPgugiqGQ.png" />
+Developer on FarmTech. </br>
+<img align="center" alt="ClassWallet" width="122px" src="https://mir-s3-cdn-cf.behance.net/projects/404/0c3ad3176195511.Y3JvcCwxMDA3LDc4OCwxOTcsMA.png" />
 ```javascript
 const Web Developer = {
   name: 'Luis Felipe Preto',
