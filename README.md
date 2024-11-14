@@ -5,7 +5,7 @@ Developer on FarmTech. </br>
 ```javascript
 const Web Developer = {
   name: 'Luis Felipe Preto',
-  age: 29,
+  age: 31,
   currentStack: [ 'VueJs, Reactjs, Swift, Node, Typescript , NuxtJs, NextJs'],
   otherSkills: ['HTML5, CSS, SASS,  NestJs, TypeScript, Storybook , Docker, Documentation, Confluence and Jira, MySQL, Jest'], 
   status: 📓 'Working as frontend Developer',
